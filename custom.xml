@@ -1,0 +1,8 @@
+<GameInfo>
+
+  <StartPosition>
+      <Replace MapName="GiantEarth" Civilization="CIVILIZATION_LITHUANIA" X="50" Y="50" />
+      <Replace MapName="GiantEarth" Civilization="CIVILIZATION_LITHUANIA" X="50" Y="50" />
+    </StartPosition>
+
+</GameInfo>
